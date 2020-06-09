@@ -45,7 +45,7 @@ https://gitee.com/52itstyle/spring-boot-quartz/blob/master/src/main/java/com/its
 
 ## 项目截图
 
-![输入图片说明](https://gitee.com/uploads/images/2018/0331/181340_cfbf6c90_87650.png "1.png")
+![](https://github.com/sctTeacher/spring-boot-quartz.git/spring-boot-quartz/img\181340_cfbf6c90_87650.png)
 
 ![输入图片说明](https://gitee.com/uploads/images/2018/0331/181347_8b91b864_87650.png "2.png")
 
